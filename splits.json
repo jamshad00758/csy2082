@@ -1,0 +1,169 @@
+{
+  "person_01": {
+    "train": [
+      "data\\processed\\person_01\\sample_0030.jpg",
+      "data\\processed\\person_01\\sample_0017.jpg",
+      "data\\processed\\person_01\\sample_0008.jpg",
+      "data\\processed\\person_01\\sample_0026.jpg",
+      "data\\processed\\person_01\\sample_0025.jpg",
+      "data\\processed\\person_01\\sample_0023.jpg",
+      "data\\processed\\person_01\\sample_0006.jpg",
+      "data\\processed\\person_01\\sample_0022.jpg",
+      "data\\processed\\person_01\\sample_0027.jpg",
+      "data\\processed\\person_01\\sample_0011.jpg",
+      "data\\processed\\person_01\\sample_0020.jpg",
+      "data\\processed\\person_01\\sample_0021.jpg",
+      "data\\processed\\person_01\\sample_0010.jpg",
+      "data\\processed\\person_01\\sample_0007.jpg",
+      "data\\processed\\person_01\\sample_0019.jpg",
+      "data\\processed\\person_01\\sample_0004.jpg",
+      "data\\processed\\person_01\\sample_0001.jpg",
+      "data\\processed\\person_01\\sample_0016.jpg",
+      "data\\processed\\person_01\\sample_0018.jpg",
+      "data\\processed\\person_01\\sample_0024.jpg",
+      "data\\processed\\person_01\\sample_0013.jpg"
+    ],
+    "val": [
+      "data\\processed\\person_01\\sample_0012.jpg",
+      "data\\processed\\person_01\\sample_0015.jpg",
+      "data\\processed\\person_01\\sample_0029.jpg",
+      "data\\processed\\person_01\\sample_0003.jpg"
+    ],
+    "test": [
+      "data\\processed\\person_01\\sample_0005.jpg",
+      "data\\processed\\person_01\\sample_0028.jpg",
+      "data\\processed\\person_01\\sample_0002.jpg",
+      "data\\processed\\person_01\\sample_0014.jpg",
+      "data\\processed\\person_01\\sample_0009.jpg"
+    ]
+  },
+  "person_02": {
+    "train": [
+      "data\\processed\\person_02\\sample_0012.jpg",
+      "data\\processed\\person_02\\sample_0006.jpg",
+      "data\\processed\\person_02\\sample_0009.jpg",
+      "data\\processed\\person_02\\sample_0002.jpg",
+      "data\\processed\\person_02\\sample_0011.jpg",
+      "data\\processed\\person_02\\sample_0020.jpg",
+      "data\\processed\\person_02\\sample_0025.jpg",
+      "data\\processed\\person_02\\sample_0007.jpg",
+      "data\\processed\\person_02\\sample_0018.jpg",
+      "data\\processed\\person_02\\sample_0023.jpg",
+      "data\\processed\\person_02\\sample_0003.jpg",
+      "data\\processed\\person_02\\sample_0001.jpg",
+      "data\\processed\\person_02\\sample_0021.jpg",
+      "data\\processed\\person_02\\sample_0027.jpg",
+      "data\\processed\\person_02\\sample_0008.jpg",
+      "data\\processed\\person_02\\sample_0005.jpg",
+      "data\\processed\\person_02\\sample_0019.jpg",
+      "data\\processed\\person_02\\sample_0029.jpg",
+      "data\\processed\\person_02\\sample_0024.jpg",
+      "data\\processed\\person_02\\sample_0014.jpg",
+      "data\\processed\\person_02\\sample_0010.jpg"
+    ],
+    "val": [
+      "data\\processed\\person_02\\sample_0028.jpg",
+      "data\\processed\\person_02\\sample_0022.jpg",
+      "data\\processed\\person_02\\sample_0026.jpg",
+      "data\\processed\\person_02\\sample_0013.jpg"
+    ],
+    "test": [
+      "data\\processed\\person_02\\sample_0017.jpg",
+      "data\\processed\\person_02\\sample_0015.jpg",
+      "data\\processed\\person_02\\sample_0030.jpg",
+      "data\\processed\\person_02\\sample_0016.jpg",
+      "data\\processed\\person_02\\sample_0004.jpg"
+    ]
+  },
+  "person_03": {
+    "train": [
+      "data\\processed\\person_03\\sample_0014.jpg",
+      "data\\processed\\person_03\\sample_0003.jpg",
+      "data\\processed\\person_03\\sample_0005.jpg",
+      "data\\processed\\person_03\\sample_0015.jpg",
+      "data\\processed\\person_03\\sample_0027.jpg",
+      "data\\processed\\person_03\\sample_0012.jpg",
+      "data\\processed\\person_03\\sample_0004.jpg",
+      "data\\processed\\person_03\\sample_0026.jpg",
+      "data\\processed\\person_03\\sample_0024.jpg",
+      "data\\processed\\person_03\\sample_0016.jpg",
+      "data\\processed\\person_03\\sample_0029.jpg",
+      "data\\processed\\person_03\\sample_0025.jpg",
+      "data\\processed\\person_03\\sample_0019.jpg",
+      "data\\processed\\person_03\\sample_0001.jpg",
+      "data\\processed\\person_03\\sample_0007.jpg",
+      "data\\processed\\person_03\\sample_0030.jpg",
+      "data\\processed\\person_03\\sample_0021.jpg",
+      "data\\processed\\person_03\\sample_0020.jpg",
+      "data\\processed\\person_03\\sample_0002.jpg",
+      "data\\processed\\person_03\\sample_0028.jpg",
+      "data\\processed\\person_03\\sample_0018.jpg"
+    ],
+    "val": [
+      "data\\processed\\person_03\\sample_0008.jpg",
+      "data\\processed\\person_03\\sample_0010.jpg",
+      "data\\processed\\person_03\\sample_0022.jpg",
+      "data\\processed\\person_03\\sample_0013.jpg"
+    ],
+    "test": [
+      "data\\processed\\person_03\\sample_0009.jpg",
+      "data\\processed\\person_03\\sample_0023.jpg",
+      "data\\processed\\person_03\\sample_0011.jpg",
+      "data\\processed\\person_03\\sample_0017.jpg",
+      "data\\processed\\person_03\\sample_0006.jpg"
+    ]
+  },
+  "person_04": {
+    "train": [
+      "data\\processed\\person_04\\sample_0020.jpg",
+      "data\\processed\\person_04\\sample_0001.jpg",
+      "data\\processed\\person_04\\sample_0027.jpg",
+      "data\\processed\\person_04\\sample_0026.jpg",
+      "data\\processed\\person_04\\sample_0006.jpg",
+      "data\\processed\\person_04\\sample_0002.jpg",
+      "data\\processed\\person_04\\sample_0025.jpg",
+      "data\\processed\\person_04\\sample_0021.jpg",
+      "data\\processed\\person_04\\sample_0013.jpg",
+      "data\\processed\\person_04\\sample_0028.jpg",
+      "data\\processed\\person_04\\sample_0017.jpg",
+      "data\\processed\\person_04\\sample_0003.jpg",
+      "data\\processed\\person_04\\sample_0011.jpg",
+      "data\\processed\\person_04\\sample_0004.jpg",
+      "data\\processed\\person_04\\sample_0012.jpg",
+      "data\\processed\\person_04\\sample_0014.jpg",
+      "data\\processed\\person_04\\sample_0018.jpg",
+      "data\\processed\\person_04\\sample_0008.jpg",
+      "data\\processed\\person_04\\sample_0019.jpg",
+      "data\\processed\\person_04\\sample_0023.jpg",
+      "data\\processed\\person_04\\sample_0007.jpg"
+    ],
+    "val": [
+      "data\\processed\\person_04\\sample_0009.jpg",
+      "data\\processed\\person_04\\sample_0015.jpg",
+      "data\\processed\\person_04\\sample_0016.jpg",
+      "data\\processed\\person_04\\sample_0005.jpg"
+    ],
+    "test": [
+      "data\\processed\\person_04\\sample_0010.jpg",
+      "data\\processed\\person_04\\sample_0029.jpg",
+      "data\\processed\\person_04\\sample_0022.jpg",
+      "data\\processed\\person_04\\sample_0024.jpg",
+      "data\\processed\\person_04\\sample_0030.jpg"
+    ]
+  },
+  "person_05": {
+    "train": [
+      "data\\processed\\person_05\\palm_0003.jpg",
+      "data\\processed\\person_05\\palm_0002.jpg",
+      "data\\processed\\person_05\\palm_0005.jpg",
+      "data\\processed\\person_05\\palm_0007.jpg"
+    ],
+    "val": [
+      "data\\processed\\person_05\\palm_0006.jpg"
+    ],
+    "test": [
+      "data\\processed\\person_05\\palm_0004.jpg",
+      "data\\processed\\person_05\\palm_0001.jpg"
+    ]
+  }
+}
